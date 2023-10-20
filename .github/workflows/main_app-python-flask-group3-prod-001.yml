@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: app-python-flask-group3-prod-001
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E08444EF0BEF4787B21CCE9206D2EFFE }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2FBDA1797B174227BD012FDC104221E6 }}
 
